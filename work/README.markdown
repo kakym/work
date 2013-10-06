@@ -25,7 +25,7 @@ hogehogeは軽量でシンプルなhogehogeアプリケーションです。
 ----
 
 トップ画面
-![タイムライン画面](index.html)
+![タイムライン画面](logo.html)
 
 トップロゴ
 ![タイムライン画面](0-tilemine.png)
